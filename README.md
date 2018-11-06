@@ -1,6 +1,6 @@
 # Django projects to study the framework
 
-## Main commands
+## Django commands
 
 ### Instalation required
 
@@ -41,3 +41,7 @@
 
 * https://docs.djangoproject.com/en/2.1/ref/models/relations/
 * https://docs.djangoproject.com/en/2.1/topics/db/queries/#field-lookups-intro
+
+### Templates
+
+* https://docs.djangoproject.com/en/2.1/topics/templates/
