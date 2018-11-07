@@ -45,3 +45,17 @@
 ### Templates
 
 * https://docs.djangoproject.com/en/2.1/topics/templates/
+
+### Request response
+
+* https://docs.djangoproject.com/en/2.1/ref/request-response/
+
+### Avoiding race conditions
+
+* https://docs.djangoproject.com/en/2.1/ref/models/expressions/#avoiding-race-conditions-using-f
+
+### Class based views (generic display/views)
+
+* https://docs.djangoproject.com/en/2.1/topics/class-based-views/
+* https://docs.djangoproject.com/en/2.1/ref/class-based-views/generic-display/#django.views.generic.list.ListView
+* https://docs.djangoproject.com/en/2.1/ref/class-based-views/generic-display/#django.views.generic.detail.DetailView
