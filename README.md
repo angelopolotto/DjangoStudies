@@ -63,3 +63,10 @@
 * https://docs.djangoproject.com/en/2.1/topics/class-based-views/
 * https://docs.djangoproject.com/en/2.1/ref/class-based-views/generic-display/#django.views.generic.list.ListView
 * https://docs.djangoproject.com/en/2.1/ref/class-based-views/generic-display/#django.views.generic.detail.DetailView
+
+### Tests
+
+* https://docs.djangoproject.com/en/2.1/topics/testing/
+* https://docs.djangoproject.com/en/2.1/topics/testing/tools/#django.test.TestCase
+* https://docs.djangoproject.com/en/2.1/topics/testing/tools/#django.test.LiveServerTestCase
+* https://docs.djangoproject.com/en/2.1/topics/testing/advanced/#topics-testing-code-coverage
