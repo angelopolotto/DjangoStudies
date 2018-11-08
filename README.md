@@ -4,26 +4,30 @@
 
 ### Instalation required
 
-* install pipenv: py -m pip install pipenv
-* install Django: py -m pipenv install Django
+* install pipenv: python -m pip install pipenv
+* install Django: python -m pipenv install Django
 
 ### Project commands
 
 * create a project: django-admin startproject NAME
-* run the server: py manage.py runserver
-* create a app inside a project: py manage.py startapp APP_NAME
+* run the server: python manage.py runserver
+* create a app inside a project: python manage.py startapp APP_NAME
 
 ### Database commands
 
-* migrate the database: py manage.py migrate
-* prepare a migration database for a app: py manage.py makemigrations APP_NAME
-* see the SQL operations necessaries to the migration: py manage.py sqlmigrate APP_NAME MIGRATION_NUMBER
-* check any problem without make migration: py manage.py check
-* open a shell to interact with the project models and more: py manage.py shell
+* migrate the database: python manage.py migrate
+* prepare a migration database for a app: python manage.py makemigrations APP_NAME
+* see the SQL operations necessaries to the migration: python manage.py sqlmigrate APP_NAME MIGRATION_NUMBER
+* check any problem without make migration: python manage.py check
+* open a shell to interact with the project models and more: python manage.py shell
 
-## Django admin commands
+### Django admin commands
 
-* create a new user for django admin: py manage.py createsuperuser
+* create a new user for django admin: python manage.py createsuperuser
+
+### Tests commands
+
+* run the application tests: python manage.py test APP_NAME
 
 ## Resources
 
