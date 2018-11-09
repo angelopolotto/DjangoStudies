@@ -70,3 +70,9 @@
 * https://docs.djangoproject.com/en/2.1/topics/testing/tools/#django.test.TestCase
 * https://docs.djangoproject.com/en/2.1/topics/testing/tools/#django.test.LiveServerTestCase
 * https://docs.djangoproject.com/en/2.1/topics/testing/advanced/#topics-testing-code-coverage
+
+### Static files
+
+* https://docs.djangoproject.com/en/2.1/howto/static-files/
+* https://docs.djangoproject.com/en/2.1/ref/contrib/staticfiles/
+* https://docs.djangoproject.com/en/2.1/howto/static-files/deployment/
