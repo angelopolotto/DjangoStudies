@@ -29,11 +29,17 @@
 
 * run the application tests: python manage.py test APP_NAME
 
+### Others commands
+
+* find the path of Django souce code: python -c "import django; print(django.__path__)"
+
 ## Resources
 
 ### Django admin
 
 * https://docs.djangoproject.com/en/2.1/ref/django-admin/
+* https://docs.djangoproject.com/en/2.1/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_display
+* https://docs.djangoproject.com/en/2.1/ref/contrib/admin/#django.contrib.admin.AdminSite.site_header
 
 ### Time zones
 
@@ -76,3 +82,5 @@
 * https://docs.djangoproject.com/en/2.1/howto/static-files/
 * https://docs.djangoproject.com/en/2.1/ref/contrib/staticfiles/
 * https://docs.djangoproject.com/en/2.1/howto/static-files/deployment/
+
+### Reusable apps

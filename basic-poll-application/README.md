@@ -8,3 +8,4 @@
 * Part 05: https://docs.djangoproject.com/en/2.1/intro/tutorial05/
 * Part 06: https://docs.djangoproject.com/en/2.1/intro/tutorial06/
 * Part 07: https://docs.djangoproject.com/en/2.1/intro/tutorial07/
+* Reusable apps: https://docs.djangoproject.com/en/2.1/intro/reusable-apps/
